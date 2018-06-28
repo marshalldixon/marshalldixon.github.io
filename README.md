@@ -1,5 +1,4 @@
 # marshalldixon.github.io
-Sample Text
 <!doctype html>
 <html>
     <head>
@@ -8,6 +7,6 @@ Sample Text
     </head>
     <body>
         <h1>Hello</h1>
-        <p>That's my first html project at SourceLair and it seems cool.</p>
+        <p>That's my first html project at Github and it seems cool.</p>
     </body>
 </html>
