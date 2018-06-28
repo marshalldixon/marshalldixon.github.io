@@ -1,6 +1,6 @@
 # marshalldixon.github.io
 Portfolio
-<!doctype html>
+
 <html>
     <head>
         <meta charset="utf8" />
@@ -8,6 +8,6 @@ Portfolio
     </head>
     <body>
         <h1>Hello</h1>
-        <p>That's my first html project at SourceLair and it seems cool.</p>
+        <p>That's my first html project at Github and it seems cool.</p>
     </body>
 </html>
