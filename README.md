@@ -11,3 +11,9 @@ Portfolio
         <p>That's my first html project at Github and it seems cool.</p>
     </body>
 </html>
+
+<head>
+...
+<title>Web Accessibility Initiative (WAI) - home page</title>
+...
+</head>
